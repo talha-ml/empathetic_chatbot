@@ -1,17 +1,22 @@
-# empathetic_chatbot
+ 🧠 Empathetic Mental Health Chatbot
 
-A new Flutter project.
+A compassionate AI-powered mobile application designed to provide mental health support and empathetic conversation. Built using **Flutter** and **Google's Gemini API**.
 
-## Getting Started
+ 🚀 Features
+- **Real-time AI Chat:** Converses naturally and understands context.
+- **Empathetic Responses:** Specifically prompted to act as a caring mental health companion.
+- **Crisis Detection:** Recognizes keywords related to self-harm and provides helpline resources.
+- **Cross-Platform:** Runs smoothly on Android (APK available).
 
-This project is a starting point for a Flutter application.
+ 🛠️ Tech Stack
+- **Frontend:** Flutter (Dart)
+- **Backend/AI:** Google Gemini API (Generative AI)
+- **State Management:** Provider / setState
+- **HTTP Client:** Dio / Http
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+👨‍💻 Developer
+**Muhammad Talha** Computer Science Student | AI Enthusiast  
+https://www.linkedin.com/in/muhammad-talha-2543522a6/?li<img width="1920" height="1080" alt="Screenshot (44)" src="https://github.com/user-attachments/assets/a707bb23-c659-476d-ae41-c7fa0fac0454" />
+pi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B7lEIKqigRGmHKfJDpUyUog%3D%3D
