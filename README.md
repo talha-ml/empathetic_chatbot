@@ -92,13 +92,19 @@ https://www.linkedin.com/in/muhammad-talha-2543522a6
 ---
 
 # 📸 Screenshots
+![1](https://github.com/user-attachments/assets/a2b405c0-eb43-4adf-a189-e781e1790bc8)
 
-Paste your screenshots here.
+![2](https://github.com/user-attachments/assets/65d99887-6f35-42c3-bcbc-8a6c590e17b2)
 
-Example:
+![3](https://github.com/user-attachments/assets/dbdbd170-649b-4a6a-ba3f-9129e148bf94)
 
-<img width="1920" height="1080" src="PASTE_SCREENSHOT_LINK_HERE" />
+![4](https://github.com/user-attachments/assets/244d9f0a-a4ea-4469-90fd-34558c7ab177)
 
-<img width="1920" height="1080" src="PASTE_SCREENSHOT_LINK_HERE" />
 
-<img width="1920" height="1080" src="PASTE_SCREENSHOT_LINK_HERE" />
+
+
+
+
+
+
+
