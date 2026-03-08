@@ -1,22 +1,42 @@
- 🧠 Empathetic Mental Health Chatbot
+# 🧠 Empathetic Mental Health Chatbot
 
-A compassionate AI-powered mobile application designed to provide mental health support and empathetic conversation. Built using **Flutter** and **Google's Gemini API**.
+An AI-powered mobile application designed to provide **empathetic mental health support through conversation**.  
+The chatbot interacts with users in a compassionate and supportive manner, helping them express their thoughts and emotions in a safe environment.
 
- 🚀 Features
-- **Real-time AI Chat:** Converses naturally and understands context.
-- **Empathetic Responses:** Specifically prompted to act as a caring mental health companion.
-- **Crisis Detection:** Recognizes keywords related to self-harm and provides helpline resources.
-- **Cross-Platform:** Runs smoothly on Android (APK available).
+The application is developed using **Flutter** for cross-platform mobile development and **Google's Gemini API** for intelligent conversational responses.
 
- 🛠️ Tech Stack
-- **Frontend:** Flutter (Dart)
-- **Backend/AI:** Google Gemini API (Generative AI)
-- **State Management:** Provider / setState
-- **HTTP Client:** Dio / Http
+---
 
+## 🚀 Features
 
+- **🤖 Real-time AI Chat**  
+  Communicates naturally with users using Google's Gemini generative AI.
 
-👨‍💻 Developer
-**Muhammad Talha** Computer Science Student | AI Enthusiast  
-https://www.linkedin.com/in/muhammad-talha-2543522a6/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B7lEIKqigRGmHKfJDpUyUog%3D%3D
-<img width="1920" height="1080" alt="Screenshot (44)" src="https://github.com/user-attachments/assets/a707bb23-c659-476d-ae41-c7fa0fac0454" />
+- **💬 Empathetic Responses**  
+  The AI is specifically prompted to behave like a caring mental health companion.
+
+- **⚠️ Crisis Detection**  
+  Detects sensitive keywords related to self-harm or crisis situations and provides appropriate helpline resources.
+
+- **📱 Cross-Platform Support**  
+  Built using Flutter, enabling smooth performance on Android devices.
+
+---
+
+## 🛠 Tech Stack
+
+| Technology | Purpose |
+|-----------|---------|
+| **Flutter (Dart)** | Mobile application development |
+| **Google Gemini API** | AI-powered conversational responses |
+| **Provider / setState** | State management |
+| **Dio / HTTP** | API communication |
+
+---
+
+## 📦 Installation
+
+### 1️⃣ Clone the Repository
+
+```bash
+git clone https://github.com/yourusername/empathetic-mental-health-chatbot.git
