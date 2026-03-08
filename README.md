@@ -18,5 +18,5 @@ A compassionate AI-powered mobile application designed to provide mental health 
 
 👨‍💻 Developer
 **Muhammad Talha** Computer Science Student | AI Enthusiast  
-https://www.linkedin.com/in/muhammad-talha-2543522a6/?li<img width="1920" height="1080" alt="Screenshot (44)" src="https://github.com/user-attachments/assets/a707bb23-c659-476d-ae41-c7fa0fac0454" />
-pi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B7lEIKqigRGmHKfJDpUyUog%3D%3D
+https://www.linkedin.com/in/muhammad-talha-2543522a6/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B7lEIKqigRGmHKfJDpUyUog%3D%3D
+<img width="1920" height="1080" alt="Screenshot (44)" src="https://github.com/user-attachments/assets/a707bb23-c659-476d-ae41-c7fa0fac0454" />
